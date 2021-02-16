@@ -9,7 +9,10 @@ A web app that helps a consumer analyze their weekly grocery costs and wastes
 - The user can then choose an item and add it to their cart with the price of the item
 - Once the user has added all items to the cart, a cart total will populate
 - On their next fridge clean or grocery run, the user will return to their myCart web application and update their cart
-- The user has three options to update their cart: 1. "Add Item"    2. "I ate this"     3. "I composted this"
+- The user has three options to update their cart: 
+1. "Add Item"    
+2. "I ate this"     
+3. "I composted this"
 - Once they have updated their cart, they have the option to analyze
 - The analyze button will send the user to an analytics dashboard page where they will be able to view three charts: 
 - The three charts will be as follows: 
